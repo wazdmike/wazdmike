@@ -1,8 +1,6 @@
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wazdmike&theme=transparent&hide_border=true">
+# Michael 
 
-# Michael Santos
-
-### *Software Analysis and Development Student*
+Java Backend Developer | Data Analysis
 
 ## Education
 
@@ -14,30 +12,20 @@
   *SENAI-SP (National Service for Industrial Training – São Paulo)*  
   Technical Degree in Systems Development
 
-## Interests
+## Stack
 
-- Backend Development
-- Software Development
-- Cybersecurity
-
-## Skills
-
-### Programming Languages
+### Backend
 <code><img src="https://skillicons.dev/icons?i=java" alt="Java" /></code>
-<code><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></code>
-<code><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" /></code>
-<code><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></code>
-
-### Frameworks & Libraries
 <code><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></code>
-<code><img src="https://skillicons.dev/icons?i=react" alt="React" /></code>
-<code><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></code>
-<code><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></code>
+
+> Worked with Laravel and Node.js in academic projects.
+
+### Data
+<code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></code>
+<code><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></code>
+<code><img src="https://skillicons.dev/icons?i=py" alt="Python" /></code>
 
 ### Tools
-<code><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></code>
-<code><img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" /></code>
-<code><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></code>
 <code><img src="https://skillicons.dev/icons?i=git" alt="Git" /></code>
 <code><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></code>
 <code><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></code>
