@@ -18,7 +18,7 @@ Java Backend Developer | Data Analysis
 <code><img src="https://skillicons.dev/icons?i=java" alt="Java" /></code>
 <code><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></code>
 
-> Worked with Laravel and Node.js in academic projects.
+> Worked with Laravel and Node.js in academic projects
 
 ### Data
 <code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></code>
@@ -30,16 +30,3 @@ Java Backend Developer | Data Analysis
 <code><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></code>
 <code><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></code>
 <code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
-
-###
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
