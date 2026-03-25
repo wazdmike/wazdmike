@@ -24,7 +24,6 @@ Java Backend Developer | Data Analysis
 <code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></code>
 <code><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></code>
 <code><img src="https://skillicons.dev/icons?i=py" alt="Python" /></code>
-<code><img src="https://skillicons.dev/icons?i=bi" alt="Power Bi" /></code>
 
 ### Tools
 <code><img src="https://skillicons.dev/icons?i=git" alt="Git" /></code>
