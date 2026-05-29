@@ -1,32 +1,48 @@
-# Michael 
+<p align="left">
+  <div>
+  <code>~ $ whoami</code>
 
-Java Backend Developer | Data Analysis
+Michael Santos 
+  <p>
+  Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha jornada em desenvolvimento de software, com foco especial em <b>Backend</b>.
+  <br><br>
+  Atualmente, dedico meus estudos ao desenvolvimento com <b>Java, Python e TypeScript</b>, além de aprofundar meus conhecimentos em bancos de dados, Git e tecnologias voltadas ao ecossistema backend.
+  </p>
+  </div>
+<br clear="right">
 
-## Education
+---
+<div align="center">
+<h3>Technologies</h3>
+</div>
+<div align="center">
+ 
+![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
 
-- **Feb 2025 – Present**  
-  *Federal Institute of Education, Science and Technology of São Paulo*  
-  Technologist Degree in Software Analysis and Development (ADS)
+</div>
 
-- **Aug 2023 – Dec 2024**  
-  *SENAI-SP (National Service for Industrial Training – São Paulo)*  
-  Technical Degree in Systems Development
 
-## Stack
+</br>
 
-### Backend
-<code><img src="https://skillicons.dev/icons?i=java" alt="Java" /></code>
-<code><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" /></code>
+---
 
-> Worked with Laravel and Node.js in academic projects
-
-### Data
-<code><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" /></code>
-<code><img src="https://skillicons.dev/icons?i=postgres" alt="postgres" /></code>
-<code><img src="https://skillicons.dev/icons?i=py" alt="Python" /></code>
-
-### Tools
-<code><img src="https://skillicons.dev/icons?i=git" alt="Git" /></code>
-<code><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></code>
-<code><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></code>
-<code><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></code>
+<div align="center">
+  <h3>Statistics</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=wazdmike&hide_border=true&background=000000&side=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" />
+      </td>
+      <td align="center">
+       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wazdmike&layout=compact&langs_count=7&hide=html,css&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" />
+      </td>
+    </tr>
+  </table>
+</div></br><p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wazdmike&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
+</p>
