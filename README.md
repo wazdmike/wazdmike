@@ -18,11 +18,14 @@ Michael Santos
 <div align="center">
  
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
@@ -39,7 +42,7 @@ Michael Santos
         <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=wazdmike&hide_border=true&background=000000&side=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff" />
       </td>
       <td align="center">
-       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wazdmike&layout=compact&langs_count=7&hide=html,css&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" />
+       <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wazdmike&layout=compact&langs_count=7&hide=javascript,html,css&hide_border=true&bg_color=000000&text_color=ffffff&title_color=ffffff" />
       </td>
     </tr>
   </table>
