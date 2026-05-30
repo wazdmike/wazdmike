@@ -4,9 +4,9 @@
 
 Michael Santos 
   <p>
-  Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha jornada em desenvolvimento de software, com foco especial em <b>Backend</b>.
+  Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha jornada em desenvolvimento de software, com foco especial em Backend e análise de dados.</b>
   <br><br>
-  Atualmente, dedico meus estudos ao desenvolvimento com <b>Java, Python e TypeScript</b>, além de aprofundar meus conhecimentos em bancos de dados, Git e tecnologias voltadas ao ecossistema backend.
+  Atualmente, dedico meus estudos ao desenvolvimento com Java, Python e TypeScript, além de aprofundar meus conhecimentos em bancos de dados, Git, manipulação e análise de dados e tecnologias voltadas ao ecossistema backend.
   </p>
   </div>
 <br clear="right">
