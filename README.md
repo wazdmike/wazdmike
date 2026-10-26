@@ -4,9 +4,14 @@
 
 Michael Santos 
   <p>
-  Sou estudante de Análise e Desenvolvimento de Sistemas e estou iniciando minha jornada em desenvolvimento de software, com foco especial em Backend e análise de dados.</b>
-  <br><br>
-  Atualmente, dedico meus estudos ao desenvolvimento com Java, Python e TypeScript, além de aprofundar meus conhecimentos em bancos de dados, Git, manipulação e análise de dados e tecnologias voltadas ao ecossistema backend.
+    Sou estudante universitário de Análise e Desenvolvimento de Sistemas
+    e estou iniciando minha trajetória na área de desenvolvimento de
+    software, com foco em desenvolvimento backend e análise de dados.
+    <br><br>
+    Atualmente, dedico meus estudos às linguagens Java, Python e
+    TypeScript, além de aprofundar meus conhecimentos em bancos de dados,
+    manipulação e análise de dados e tecnologias relacionadas ao
+    desenvolvimento backend.
   </p>
   </div>
 <br clear="right">
@@ -46,6 +51,4 @@ Michael Santos
       </td>
     </tr>
   </table>
-</div></br><p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wazdmike&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"/>
-</p>
+</div>
